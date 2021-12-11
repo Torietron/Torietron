@@ -5,7 +5,7 @@
 - My goal is to continue to push my creative talents and improve my skillset as much as possible
 
 Planned Projects:
-- basic websites, also where did Mozilla's thimble go??
+- Basic websites, also where did Mozilla's thimble go??
 - Creating English documentation for my favorite graphics library to help it reach western devs and universities
 - A few personal workflow tools and other prototypes
 - Visual Novel

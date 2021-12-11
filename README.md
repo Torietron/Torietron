@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Torietron
-- 🌱 I’m currently learning ... more JavaScript and Graphic Design!
+- 🌱 I’m currently learning ...  Graphic Design! and some JS
+- I enjoy solving problems and coming up with creative solutions
 
 <!---
 Torietron/Torietron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,7 @@ Planned Projects:
 - Visual Novel
 
 Writing Sample:
-https://drive.google.com/file/d/1yAJRVh2AWn-KvUuIDtSPU_uo-DRm2jcT/edit
+https://drive.google.com/file/d/1yAJRVh2AWn-KvUuIDtSPU_uo-DRm2jcT
 
 <!---
 Torietron/Torietron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

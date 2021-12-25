@@ -10,6 +10,9 @@ Planned Projects:
 - A few personal workflow tools and other prototypes
 - Visual Novel
 
+Writing Sample:
+https://drive.google.com/file/d/1yAJRVh2AWn-KvUuIDtSPU_uo-DRm2jcT/edit
+
 <!---
 Torietron/Torietron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

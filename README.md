@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning ...  Graphic Design!
 - I enjoy solving problems and coming up with creative solutions
 - I like doing Narrative Design, Game Design, and other creative things
+- The key thing that I like most is generating experiences that are fun or helpful
 
 Writing Sample:
 https://drive.google.com/file/d/1yAJRVh2AWn-KvUuIDtSPU_uo-DRm2jcT
